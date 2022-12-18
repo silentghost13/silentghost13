@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilham Yusuf Balanda
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on data analytics 
 - 📫 How to reach me ilhamyusufb@gmail.com
 
